@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="top" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ImageView android:id="@id/imageView2" android:layout_width="fill_parent" android:layout_height="220.0dip" android:src="@drawable/placement" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/placmnt1" />
+            <Button android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Placement Record" android:onClick="onPopupButtonClick" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

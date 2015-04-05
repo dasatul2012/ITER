@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <TextView android:textSize="12.0dip" android:padding="3.0dip" android:text="Company Name" />
+        <TextView android:textSize="12.0dip" android:padding="3.0dip" android:text="No.of Placement" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="TVS MOTOR" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="2" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="MAHINDRA MAHINDRA|AUTO SECTOR" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="13" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="CAPGEMINI" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="49" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="TCS" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="726" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="WIPRO" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="149" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="HCL" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="46" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="CAPGEMINI" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="49" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="CUMMINS INDIA LTD" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="4" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="ASHOK LEYLAND" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="1" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="SOMA ENTERPRISE" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="2" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="ADANI GROUP" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="8" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="SYNTEL" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="6" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="SIMPLEX" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="2" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="RPG" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="1" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="ROHIT FERROTECH" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="5" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="ERA GROUP" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="1" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="BUREAU VERITAS LTD" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="3" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="HUAWEI" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="6" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="IBM" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="4" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="RSB GLOBAL" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="6" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="MEDITAB" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="5" />
+    </TableRow>
+</TableLayout>

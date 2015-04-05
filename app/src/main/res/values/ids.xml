@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ce">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="textView2">false</item>
+    <item type="id" name="text1">false</item>
+    <item type="id" name="textView3">false</item>
+    <item type="id" name="inquery">false</item>
+    <item type="id" name="listview">false</item>
+    <item type="id" name="GridLayout1">false</item>
+    <item type="id" name="deprt">false</item>
+    <item type="id" name="fclty">false</item>
+    <item type="id" name="plc">false</item>
+    <item type="id" name="nwsevn">false</item>
+    <item type="id" name="std">false</item>
+    <item type="id" name="soa">false</item>
+    <item type="id" name="cnc">false</item>
+    <item type="id" name="bntc">false</item>
+    <item type="id" name="gllry">false</item>
+    <item type="id" name="name">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="phone">false</item>
+    <item type="id" name="email">false</item>
+    <item type="id" name="query">false</item>
+    <item type="id" name="webView1">false</item>
+    <item type="id" name="imageView2">false</item>
+    <item type="id" name="menu1">false</item>
+    <item type="id" name="menu2">false</item>
+    <item type="id" name="a2012">false</item>
+    <item type="id" name="a2013">false</item>
+</resources>

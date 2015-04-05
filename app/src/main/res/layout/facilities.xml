@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <ImageView android:layout_width="fill_parent" android:layout_height="220.0dip" android:src="@drawable/facility1" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:text="HOSTEL" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/hostel" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <ImageView android:layout_width="fill_parent" android:layout_height="220.0dip" android:src="@drawable/facility3" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:text="TRANSPORTATION" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/transportation" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:text="YOGA" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/yoga" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <ImageView android:layout_width="fill_parent" android:layout_height="220.0dip" android:src="@drawable/facility2" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:text="MULTI-GYM" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/multigym" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:text="ANTI-WOMEN HARASSMENT CELL" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/antiwomen" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="90.0dip" android:text="ANTI-WOMEN RAGGING CELL" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/antiragging" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text=" " />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

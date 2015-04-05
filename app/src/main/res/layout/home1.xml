@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Home1" >
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="336dp"
+        android:layout_height="38dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:paddingLeft="30dp"
+        android:paddingTop="5dp"
+        android:text="Institute of Technical Education &amp; Research"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="336dp"
+        android:layout_height="38dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="5dp"
+        android:text="Sikha O Anushandhan Univeristy"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="15dp" 
+        android:layout_marginLeft="30dp"/>
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/iter2" 
+       />
+
+    <Button
+        android:id="@+id/gallery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/notice"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="32dp"
+        android:text="Gallery" 
+         android:onClick="gallery"/>
+
+    <Button
+        android:id="@+id/faculty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/gallery"
+        android:layout_alignBottom="@+id/gallery"
+        android:layout_alignRight="@+id/student"
+        android:text="Faculty" 
+         android:onClick="faculty"/>
+
+    <Button
+        android:id="@+id/student"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="19dp"
+        android:onClick="student"
+        android:text="Student" />
+
+    <Button
+        android:id="@+id/contact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/faculty"
+        android:layout_centerHorizontal="true"
+        android:onClick="contact"
+        android:text="Contact Us" />
+
+    <Button
+        android:id="@+id/notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/gallery"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="19dp"
+        android:onClick="notice"
+        android:text="Notice" />
+
+</RelativeLayout>

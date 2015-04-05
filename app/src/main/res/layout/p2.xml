@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="Company Name" />
+        <TextView android:padding="3.0dip" android:text="No.of Placement" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="TVS MOTOR" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="2" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="MAHINDRA MAHINDRA|AUTO SECTOR" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="13" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="FRONTLINE CONSULTING SERVICE" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="4" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="TCS" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="365" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="WIPRO" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="103" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="HCL" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="44" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="CAPGEMINI" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="42" />
+    </TableRow>
+    <TableRow>
+        <TextView android:padding="3.0dip" android:text="EXILANT TECHNOLOGY" />
+        <TextView android:padding="3.0dip" android:layout_marginLeft="22.0dip" android:text="18" />
+    </TableRow>
+</TableLayout>
